@@ -1,1 +1,0 @@
-SELECT * FROM wild_db_quest.gryffindor;
